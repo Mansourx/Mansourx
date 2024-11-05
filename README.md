@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Mansourx/Mansourx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 What I'm up to now<br>Right now, I’m deep into developing mobile apps with React Native and web apps using TypeScript. My current focus is on building scalable and responsive e-commerce platforms to enhance user experiences.<br><br>👯 Collaboration Goals<br>I’m always looking to team up with others to build amazing things that can move the world one step ahead. If you’re working on something that challenges the status quo or pushes boundaries, let’s talk!<br><br>🤝 Seeking Help<br>I’m on the lookout for experts in blockchain technology to collaborate with and help me get up to speed with this cutting-edge field. If you have experience or resources, I’d love to connect!<br><br>🌱 Currently Learning<br>I’m diving into blockchain development, trying to understand the underlying technologies and how they can be leveraged for real-world solutions.<br><br>💬 Ask Me About<br>Feel free to ask me anything about mobile app development, React Native, Kotlin, or even the latest trends in blockchain. I’m always up for a tech chat!<br><br>⚡ Fun Facts<br><br>I’m always keeping an eye on the stock market and love exploring the intersection of finance and technology.<br>When I’m not coding, you’ll probably find me reading about the latest blockchain developments or trying to figure out how to better diversify my investment portfolio.<br>Let’s connect and build the future together!
 
